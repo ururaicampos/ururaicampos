@@ -6,8 +6,8 @@
 
 Here are some ideas to get you started:
 -->
-**🔭 Software Engineer, Brazilian, Jiu-Jitsu, AI**<br>
-**🌱 I’m currently learning about DevOps tools and Go**
+**🔭 Software/AI Engineer, Brazilian expat**<br>
+**🌱 Improving my skills in Rust**
 <br>
 <br>
 **✨ Tech stacks currently using** <br>
@@ -33,8 +33,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 <br>
-**💬 Ask me about anything, I'll be happy to help!** <br>
-**💬 My inbox is always open, Contact me**
+**💬 Contact me**
 <br>
 <br> 
   <a href="https://in.linkedin.com/in/ururaicampos">
