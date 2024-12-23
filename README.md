@@ -1,56 +1,58 @@
+# Welcome to My GitHub Profile 👋
 
-<h1> Olá <img src="https://github.com/ururaicampos/ururaicampos/blob/main/Hi.gif" width="29px"> </h1>
+## 🌟 About Me
+Hello, I’m **Ururaí Campos**—a passionate software developer with over 7 years of experience in backend systems, artificial intelligence, and cloud-native solutions. I hold degrees in **Robotics Engineering** and **Computer Science**, which fuel my curiosity and drive to create impactful solutions. 
 
-<!--
-**ururaicampos/ururaicampos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m currently striving to become a skilled **Rust developer**, learning and applying this exciting language to build secure, efficient, and scalable systems. Originally from Brazil and now based in the Netherlands, I focus on turning ideas into practical, real-world technologies while embracing the latest advancements in software development.
 
-Here are some ideas to get you started:
--->
-**🔭 Software/AI Engineer, Brazilian expat**<br>
-**🌱 Improving my skills in Rust**
-<br>
-<br>
-**✨ Tech stacks currently using** <br>
-<br>
-<code><a href="https://kubernetes.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></a></code>
-<code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a></code>
-<code><a href="https://spark.apache.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></a></code>
-<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
-<code><a href="https://flask.palletsprojects.com/en/1.1.x/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></a></code>
-<code><a href="https://www.tensorflow.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></a></code>
-<code><a href="https://jupyter.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
-<code><a href="https://cloud.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></a></code>
-<code><a href="https://aws.amazon.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a></code>
-<code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
-<br>
-<br>
-<br>
-**🌱 Looking forward to learn:** <br>
-<br>
-<code><a href="https://golang.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></a></code>
-<code><a href="https://www.terraform.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg"></a></code>
-<code><a href="https://www.ansible.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg"></a></code>
-<br>
-<br>
-<br>
-**💬 Contact me**
-<br>
-<br> 
-  <a href="https://in.linkedin.com/in/ururaicampos">
-   <img align="left" alt="Ururai Campos | Linkedin" width="24px" src="https://github.com/ururaicampos/ururaicampos/blob/main/Linkedin.svg" />
-  </a>
-  <a href="mailto:ururaicampos@gmail.com">
-    <img align="left" alt="Ururai Campos | Gmail" width="26px" src="https://github.com/ururaicampos/ururaicampos/blob/main/Gmail.svg" />
-  </a>
-  <a href="https://twitter.com/ucampos94">
-    <img align="left" alt="Ururai Campos | Twitter" width="26px" src="https://github.com/ururaicampos/ururaicampos/blob/main/Twitter.svg" />
-  </a>
-  <a href="https://www.instagram.com/ururaicampos/">
-    <img align="left" alt="Ururai Campos | Instagram" width="24px" src="https://github.com/ururaicampos/ururaicampos/blob/main/Instagram.svg" />
-  </a>
-<br>
-<br>
+## 💼 Skills & Expertise
 
-⭐️ From [ururaicampos](https://github.com/[ururaicampos])
+### 🦀 Rust Development (In Progress)
+- Currently exploring **Actix Web**, **Axum**, and **Tokio** to build high-performance web applications.
+- Learning **Async Rust** for scalable, asynchronous system designs.
+- Studying **CLI Development** and **WebAssembly** for lightweight, secure, and innovative applications.
+- Eager to contribute to the Rust ecosystem by building robust, memory-safe software.
 
+### 🛠️ Backend Development
+- **Golang**, **Python** - Building scalable and reliable backend architectures.
+- **Flask**, **GraphQL** - Designing modern, flexible APIs.
+- **Microservices Architecture** - Decoupled services for resilience and scalability.
+- **Event-Driven Systems** - Real-time event processing using tools like **RabbitMQ**.
 
+### 🚀 Artificial Intelligence & Machine Learning
+- **Hugging Face**, **PyTorch**, **TensorFlow** - End-to-end AI model development and deployment.
+- **Snowplow**, **Scikit-learn**, **OpenAI APIs** - Data-driven insights and generative AI solutions.
+- **LangChain** - Conversational AI and intelligent system development.
+
+### ☁️ Cloud & DevOps
+- **Kubernetes**, **Docker**, **Helm** - Managing containerized applications at scale.
+- **AWS**, **Google Cloud**, **DigitalOcean** - Building and managing reliable cloud infrastructure.
+- **GitLab CI/CD** - Automating software workflows for streamlined delivery.
+
+### 📡 Distributed Systems
+- **RabbitMQ**, **Apache Spark**, **Cassandra**, **ClickHouse** - Messaging, data processing, and distributed systems expertise.
+- Building fault-tolerant architectures for real-world reliability.
+
+### 🌐 Frontend Development
+- **TypeScript**, **React**, **Tailwind CSS** - Developing modern, user-focused, and responsive web applications.
+
+### 📊 Monitoring & Tools
+- **Prometheus**, **Grafana** - Real-time monitoring and visualization.
+- **Git**, **Vim** - Enhancing productivity and collaboration.
+
+## 🏆 Key Projects
+- Designed microservices architectures for startups using **Golang** and **Python**.
+- Built and deployed AI solutions with **Hugging Face**, **PyTorch**, and **TensorFlow**.
+- Created data pipelines with **Apache Spark** and **Snowplow** for actionable insights.
+- Managed production-grade applications with **Kubernetes** and CI/CD workflows.
+
+## 🌐 Connect with Me
+- **LinkedIn**: [Ururaí Campos](https://in.linkedin.com/in/ururaicampos)
+- **Twitter**: [@ucampos94](https://twitter.com/ucampos94)
+- **Email**: [ururaicampos@gmail.com](mailto:ururaicampos@gmail.com)
+
+Let’s collaborate! 💻✨
+
+---
+
+⭐ **Fun Fact:** My exploration of Rust reflects my passion for adopting new technologies to build efficient, future-ready solutions.
